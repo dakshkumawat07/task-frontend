@@ -23,6 +23,7 @@ A responsive React frontend for managing tasks, consuming a JWT-authenticated RE
 | `/tasks/new` | Create a task |
 | `/tasks/:id` | View task details |
 | `/tasks/:id/edit` | Edit a task |
+| `/register` | Create a new account |
 
 ## Setup
 
